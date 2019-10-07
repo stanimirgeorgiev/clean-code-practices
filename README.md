@@ -54,6 +54,13 @@ https://google.github.io/eng-practices/review/reviewer/looking-for.html
    Use the style guide  
 - ### Documentation
    On changes how users build, test, interact with, or release code, check associated documentation generated reference docs  
-   On deletes or deprecates code, consider whether the documentation should also be deleted
-   
+   On deletes or deprecates code, consider whether the documentation should also be deleted  
+- ### Every Line
+   If you can’t understand the code, it’s very likely that other developers won’t either
+- ### Good things
+    Is this code improving the health of the system or is it making the whole system more complex, less tested, etc.?  
+    Don’t accept code that degrade the code health of the system  
+    Most systems become complex through many small changes that add up  
+    Prevent even small complexities in new changes
+    
    
