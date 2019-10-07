@@ -1,5 +1,8 @@
 # clean-code-practices
 
+## Priciples taken out from the
+https://google.github.io/eng-practices/review/reviewer/standard.html
+
 - ## Maintainability, readability, and understandability of the system
 - ## Sharing knowledge is part of improving
 - ## Technical facts and data overrule opinions and personal preferences
